@@ -52,7 +52,7 @@ div{
 
 input[type=text], select, textarea {
   width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
+  padding: 12px; /* Some padding */
   background-color: #F9C4BA;
   border: 0; /* Gray border */
   border-bottom: 2px solid #EE6457;
@@ -63,7 +63,7 @@ input[type=text], select, textarea {
 
 input[type=email], select, textarea {
   width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
+  padding: 12px; /* Some padding */
   background-color: #F9C4BA;
   border: 0; /* Gray border */
   border-bottom: 2px solid #EE6457;
@@ -94,7 +94,7 @@ input[type=submit] {
         padding-right: 50px;
     }
 }
-.btn-google i{  
+.btn-google i{
     border-radius: 50%;
     height:54px;
     width:54px;
@@ -157,7 +157,7 @@ body{margin-top:20px;}
 
 
 #comments {
-  
+
   background-color: #FDF5F4;;
 }
 

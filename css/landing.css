@@ -7,8 +7,8 @@ body{
   background: url(../assests/palace.jpg) no-repeat center fixed;
   /*background-repeat: no-repeat;*/
   background-size: cover;
-  
-  
+
+
 }
 .display-5{
 	text-align: center;
@@ -83,7 +83,7 @@ div{
 
 input[type=text], select, textarea {
   width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
+  padding: 12px; /* Some padding */
   background-color: #F9C4BA;
   border: 0; /* Gray border */
   border-bottom: 2px solid #EE6457;
@@ -94,7 +94,7 @@ input[type=text], select, textarea {
 
 input[type=email], select, textarea {
   width: 100%; /* Full width */
-  padding: 12px; /* Some padding */ 
+  padding: 12px; /* Some padding */
   background-color: #F9C4BA;
   border: 0; /* Gray border */
   border-bottom: 2px solid #EE6457;
@@ -125,7 +125,7 @@ input[type=submit] {
         padding-right: 50px;
     }
 }
-.btn-google i{  
+.btn-google i{
     border-radius: 50%;
     height:54px;
     width:54px;
@@ -149,33 +149,33 @@ input[type=submit] {
    white-space: nowrap;
    display: inline-block;
  }
- 
+
  #left-button {
    float: left;
    width: 30px;
    text-align: center;
  }
- 
+
  #right-button {
    float: left;
    width: 30px;
    text-align: center;
  }
- 
+
  a {
    text-decoration: none;
    font-weight: bolder;
    color: red;
  }
- 
+
  #inner:first-child {
    margin-left: 0;
  }
- 
+
  label {
    margin-left: 10px;
  }
- 
+
  .hide {
    display: none;
  }
